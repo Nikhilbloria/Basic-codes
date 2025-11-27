@@ -22,9 +22,18 @@
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Nikhilbloria/Basic-codes/tree/master/0053-maximum-subarray) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Nikhilbloria/Basic-codes/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 ## Prefix Sum
 |  |
 | ------- |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Nikhilbloria/Basic-codes/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Nikhilbloria/Basic-codes/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Nikhilbloria/Basic-codes/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
