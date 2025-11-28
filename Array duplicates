@@ -1,0 +1,37 @@
+https://www.geeksforgeeks.org/problems/find-duplicates-in-an-array/1?page=1&difficulty=Easy&sortBy=submissions
+
+//class Solution {
+//   public:
+//     vector<int> findDuplicates(vector<int>& arr) {
+//         // code here
+//         int n = arr.size();
+//         vector<int> ans;
+//         for(int i=0;i<n;i++){
+//             for(int j=i+1;j<n;j++){
+//                 if(arr[i]==arr[j]){
+//                     if(find(ans.begin(),ans.end(),arr[i])==ans.end());//check duplicates ==ans.end is for value not found
+//                     ans.push_back(arr[i]);//!=ans.end means ans is found
+//                 }
+//             }
+//         }return ans;
+//     }
+// };
+class Solution {
+public:
+    vector<int> findDuplicates(vector<int>& arr) {
+        vector<int> ans;
+
+        for(int i = 0; i < arr.size(); i++) {
+
+            int index = abs(arr[i]) - 1;   // convert value to index
+
+            if(arr[index] < 0) {
+                ans.push_back(index + 1);  // duplicate found
+            } else {
+                arr[index] = -arr[index];  // mark as visited
+            }
+        }
+
+        return ans;
+    }
+};
