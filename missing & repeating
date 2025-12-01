@@ -1,0 +1,19 @@
+https://www.geeksforgeeks.org/problems/find-missing-and-repeating2512/1?page=1&difficulty=Easy&sortBy=submissions
+
+class Solution {
+  public:
+    vector<int> findTwoElement(vector<int>& arr) {
+        // code here
+        int n = arr.size();
+        unordered_map <int,int>mp;
+        for(int i=0;i<n;i++){
+            mp[arr[i]]++;//calculate frequencies like (2:1) 2 is one time in array;
+        }
+        int missing =0;
+        int repeating =0;
+        for(int i=0;i<=n;i++){
+            if(mp[i] == 2) repeating = i;
+            if(mp[i] == 0) missing = i;
+        }return{repeating,missing};
+    }
+};
