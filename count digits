@@ -1,0 +1,29 @@
+https://www.geeksforgeeks.org/problems/count-digits5716/1?page=1&difficulty=Easy&sortBy=submissions
+class Solution {
+  public:
+    // Function to count the number of digits in n that evenly divide n
+    int evenlyDivides(int n) {
+        // code here
+        int store = n;
+        vector<int>arr;
+        while(n>0){
+            arr.push_back(n%10);
+            n = n/10;
+        }
+        reverse(arr.begin(),arr.end());
+        int count = 0;
+        int y =0;
+        int n1 = arr.size();
+        for(int i=0;i<n1;i++){
+            if(arr[i]==0){
+                continue;
+            }
+            else if (store%arr[i] == 0){
+                count++;
+            }else{
+                continue;
+            }
+        }
+        return count;
+    }
+};
