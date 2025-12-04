@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Nikhilbloria/Basic-codes/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
+| [2211-count-collisions-on-a-road](https://github.com/Nikhilbloria/Basic-codes/tree/master/2211-count-collisions-on-a-road) |
 ## Backtracking
 |  |
 | ------- |
@@ -47,4 +48,12 @@
 | ------- |
 | [3623-count-number-of-trapezoids-i](https://github.com/Nikhilbloria/Basic-codes/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Nikhilbloria/Basic-codes/tree/master/3625-count-number-of-trapezoids-ii) |
+## Stack
+|  |
+| ------- |
+| [2211-count-collisions-on-a-road](https://github.com/Nikhilbloria/Basic-codes/tree/master/2211-count-collisions-on-a-road) |
+## Simulation
+|  |
+| ------- |
+| [2211-count-collisions-on-a-road](https://github.com/Nikhilbloria/Basic-codes/tree/master/2211-count-collisions-on-a-road) |
 <!---LeetCode Topics End-->
