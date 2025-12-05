@@ -1,0 +1,28 @@
+// User function template for C++
+https://www.geeksforgeeks.org/problems/count-pairs-with-given-sum5022/1?page=1&difficulty=Easy&sortBy=submissions
+class Solution {
+  public:
+    vector<vector<int>> getPairs(vector<int>& arr) {
+        // code here
+        int n= arr.size();
+        vector<vector<int>>ans;
+        int i = 0;
+        int j = n-1;
+        sort(arr.begin(),arr.end());
+        while(i<j){
+            if(arr[i]+arr[j]>0){
+                j--; //decrement
+            }else if(arr[i]+arr[j]<0){
+                i++;//increment
+            }else{
+                ans.push_back({arr[i],arr[j]});
+                i++;
+                j--;
+                while(i<j&&arr[i]==arr[i-1])
+                    i++;
+                while(i<j&&arr[j]==arr[j+1])
+                    j--;
+            }
+        }return ans;
+    }
+};
