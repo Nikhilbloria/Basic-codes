@@ -1,0 +1,11 @@
+https://www.geeksforgeeks.org/problems/union-of-two-arrays3538/1?page=1&difficulty=Easy&sortBy=submissions
+class Solution {
+  public:
+    vector<int> findUnion(vector<int>& a, vector<int>& b) {
+        vector<int>store;
+        store.insert(store.end(),a.begin(),a.end());
+        store.insert(store.end(),b.begin(),b.end());
+        set<int>arr(store.begin(),store.end());
+        return vector<int>(arr.begin(),arr.end());
+    }
+};
