@@ -31,6 +31,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Nikhilbloria/Basic-codes/tree/master/0053-maximum-subarray) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/Nikhilbloria/Basic-codes/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Nikhilbloria/Basic-codes/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Nikhilbloria/Basic-codes/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3531-count-covered-buildings](https://github.com/Nikhilbloria/Basic-codes/tree/master/3531-count-covered-buildings) |
@@ -53,6 +54,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Nikhilbloria/Basic-codes/tree/master/0053-maximum-subarray) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/Nikhilbloria/Basic-codes/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Nikhilbloria/Basic-codes/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 ## Geometry
 |  |
