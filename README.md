@@ -46,6 +46,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Nikhilbloria/Basic-codes/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Nikhilbloria/Basic-codes/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Nikhilbloria/Basic-codes/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Nikhilbloria/Basic-codes/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
@@ -58,6 +59,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Nikhilbloria/Basic-codes/tree/master/0053-maximum-subarray) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Nikhilbloria/Basic-codes/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Nikhilbloria/Basic-codes/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Nikhilbloria/Basic-codes/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 ## Geometry
 |  |
