@@ -7,6 +7,7 @@
 | [1015-smallest-integer-divisible-by-k](https://github.com/Nikhilbloria/Basic-codes/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Nikhilbloria/Basic-codes/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/Nikhilbloria/Basic-codes/tree/master/2048-next-greater-numerically-balanced-number) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Nikhilbloria/Basic-codes/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Nikhilbloria/Basic-codes/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/Nikhilbloria/Basic-codes/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/Nikhilbloria/Basic-codes/tree/master/3583-count-special-triplets) |
@@ -25,6 +26,7 @@
 | ------- |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Nikhilbloria/Basic-codes/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2211-count-collisions-on-a-road](https://github.com/Nikhilbloria/Basic-codes/tree/master/2211-count-collisions-on-a-road) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Nikhilbloria/Basic-codes/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -82,6 +84,7 @@
 ## Sorting
 |  |
 | ------- |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Nikhilbloria/Basic-codes/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3531-count-covered-buildings](https://github.com/Nikhilbloria/Basic-codes/tree/master/3531-count-covered-buildings) |
 ## Sliding Window
 |  |
