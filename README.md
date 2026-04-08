@@ -47,6 +47,7 @@
 | [3623-count-number-of-trapezoids-i](https://github.com/Nikhilbloria/Basic-codes/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Nikhilbloria/Basic-codes/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Nikhilbloria/Basic-codes/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Nikhilbloria/Basic-codes/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -58,6 +59,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Nikhilbloria/Basic-codes/tree/master/0053-maximum-subarray) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Nikhilbloria/Basic-codes/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -79,6 +81,7 @@
 | ------- |
 | [0874-walking-robot-simulation](https://github.com/Nikhilbloria/Basic-codes/tree/master/0874-walking-robot-simulation) |
 | [2211-count-collisions-on-a-road](https://github.com/Nikhilbloria/Basic-codes/tree/master/2211-count-collisions-on-a-road) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Nikhilbloria/Basic-codes/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Counting
 |  |
 | ------- |
